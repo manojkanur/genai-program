@@ -1,12 +1,20 @@
-# Week 2 — Prompt Engineering & LangChain
+# Week 2 — Talk to AI Properly
 
-Goal: learn how to talk to LLMs reliably and orchestrate them with LangChain.
+**Goal:** Learn how to ask AI the right way, and chain multiple AI steps together.
 
-## Topics
-1. **Prompt engineering** — zero/few-shot, role prompts, CoT, structured prompts
-2. **LangChain basics** — models, prompts, output parsers
-3. **Chains & memory** — sequential chains, conversation memory
-4. **Tools & output parsers** — function/tool calling, JSON outputs, Pydantic models
+## What you'll learn
+- **Prompting** — how to ask AI questions so you get great answers
+- **LangChain** — a tool that helps you connect AI to other things
+- **Memory** — make your AI remember what you said before
+- **Tools** — let AI use a calculator, search, or your own code
 
-## Deliverable
-A LangChain-powered chatbot that uses memory and a custom tool.
+## Your project this week
+Build a chatbot that:
+- Remembers your conversation
+- Can use at least one tool (like a calculator or web search)
+
+## Folders
+- `01-prompt-engineering` — how to write good prompts
+- `02-langchain-basics` — LangChain in plain English
+- `03-chains-and-memory` — multi-step AI + memory
+- `04-tools-and-output-parsers` — give AI superpowers

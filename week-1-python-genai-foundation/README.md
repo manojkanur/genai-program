@@ -1,24 +1,29 @@
-# Week 1 — Python & GenAI Foundation
+# Week 1 — Get Started with Python & AI
 
-Goal: get comfortable with Python, your dev environment, and the building blocks you'll use the rest of the program.
+**Goal:** Set up your laptop and run your first AI app.
 
-## Topics
-1. **Python basics** — syntax, data structures, functions, virtualenv
-2. **Platform setup** — VS Code/Cursor, GitHub, Python, Node, accounts (OpenAI/Anthropic/Groq)
-3. **FastAPI** — your first REST API
-4. **Streamlit** — your first UI
-5. **RPA** — automate the desktop with `pyautogui`, the browser with `playwright`
-6. **Open-source vs closed-source LLMs** — tradeoffs (cost, privacy, latency, quality)
-7. **Ollama** — run Llama / Mistral / Qwen locally
+## What you'll learn
+- Basic Python (enough to build things)
+- Set up your tools (VS Code, Python, GitHub)
+- Build a small API with **FastAPI**
+- Build a small web app with **Streamlit**
+- Automate boring tasks (clicks, browser) with **PyAutoGUI** and **Playwright**
+- The difference between paid AI (ChatGPT, Claude) and free AI you can run yourself
+- Run AI on your own laptop using **Ollama**
 
-## Deliverable
-A small FastAPI + Streamlit app that calls a local Ollama model and returns a response.
+## Your project this week
+Build a simple chat app:
+- A text box where you type a question
+- It sends the question to an AI running on your laptop (via Ollama)
+- It shows the answer back
 
-## Folder layout
-- `01-python-basics/`
-- `02-platform-setup/`
-- `03-fastapi/`
-- `04-streamlit/`
-- `05-rpa-pyautogui-playwright/`
-- `06-open-vs-closed-source-llm/`
-- `07-ollama/`
+That's it. You just built an AI app.
+
+## Folders
+- `01-python-basics` — Python in 1 day
+- `02-platform-setup` — install everything
+- `03-fastapi` — your first API
+- `04-streamlit` — your first web app
+- `05-rpa-pyautogui-playwright` — automate your computer
+- `06-open-vs-closed-source-llm` — which AI to use
+- `07-ollama` — run AI locally

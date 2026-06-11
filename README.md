@@ -1,16 +1,30 @@
 # 6-Week GenAI Program
 
-A community-driven, hands-on program — Python to Agents to MicroSaaS.
+Learn to build with AI — from zero to your own AI product. No prior AI experience needed.
 
-## Curriculum
+## What you'll learn
 
-| Week | Theme | Folder |
-|------|-------|--------|
-| 1 | Python & GenAI Foundation | [`week-1-python-genai-foundation`](./week-1-python-genai-foundation) |
-| 2 | Prompt Engineering & LangChain | [`week-2-prompt-and-langchain`](./week-2-prompt-and-langchain) |
-| 3 | RAG, Guardrails & Evals | [`week-3-rag-guardrails-evals`](./week-3-rag-guardrails-evals) |
-| 4 | AI Automation & AI Agents | [`week-4-ai-automation-and-agents`](./week-4-ai-automation-and-agents) |
-| 5 | Agentic AI | [`week-5-agentic-ai`](./week-5-agentic-ai) |
-| 6 | Fine-tune & One-Click AI Agents | [`week-6-finetune-and-one-click-agents`](./week-6-finetune-and-one-click-agents) |
+| Week | What you'll build |
+|------|-------------------|
+| [Week 1](./week-1-python-genai-foundation) | Your first Python app + run AI on your laptop |
+| [Week 2](./week-2-prompt-and-langchain) | Talk to AI properly (prompts) + chain steps together |
+| [Week 3](./week-3-rag-guardrails-evals) | Make AI answer from YOUR documents — and put it online |
+| [Week 4](./week-4-ai-automation-and-agents) | Make AI do tasks for you automatically |
+| [Week 5](./week-5-agentic-ai) | Build AI that thinks and acts on its own |
+| [Week 6](./week-6-finetune-and-one-click-agents) | Train your own AI + package it as a product |
 
-Each week folder has its own `README.md` with topics and deliverables.
+## How to use this repo
+
+1. Open Week 1 and follow the README.
+2. Do the small project at the end of the week.
+3. Move to the next week. That's it.
+
+Each week takes about **5–7 hours**. Go at your own pace.
+
+## What you need
+
+- A laptop (Windows / Mac / Linux)
+- Internet
+- Curiosity
+
+We'll install everything else in Week 1.

@@ -1,13 +1,21 @@
-# Week 3 — RAG, Guardrails, Evals & Go Live
+# Week 3 — Make AI Answer From Your Documents
 
-Goal: build a production-shape RAG app, add safety + evals, and deploy it.
+**Goal:** Teach AI to answer questions from your own PDFs, notes, or website — and put your app online.
 
-## Topics
-1. **RAG fundamentals** — chunking, embeddings, retrieval, re-ranking
-2. **Vector databases** — Chroma / Qdrant / pgvector
-3. **Guardrails** — input/output validation, PII, jailbreak defense
-4. **Evals** — golden sets, LLM-as-judge, regression tracking
-5. **Go live** — deploy to Vercel / Render / Fly
+## What you'll learn
+- **RAG** — a way to make AI use your documents as its knowledge
+- **Vector databases** — where we store your documents so AI can search them
+- **Guardrails** — keep AI safe (no bad answers, no leaking secrets)
+- **Evals** — how to check if your AI is actually good
+- **Going live** — put your app on the internet so anyone can use it
 
-## Deliverable
-A live RAG app over your own documents, with evals and basic guardrails.
+## Your project this week
+Pick any document (PDF, notes, a website) and build an app that answers questions from it.
+Then deploy it so you can share the link with friends.
+
+## Folders
+- `01-rag-fundamentals` — how RAG works
+- `02-vector-databases` — storing your data for AI
+- `03-guardrails` — safety
+- `04-evals` — testing your AI
+- `05-go-live-deployment` — put it online
